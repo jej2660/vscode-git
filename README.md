@@ -1,2 +1,2 @@
 # vscode-git
-git_tutorial
+깃 신기하당.
